@@ -196,4 +196,4 @@ Made with ☕️ by [Arsen Gizatov](https://github.com/your-username)
 
 ## 📜 License
 
-MIT License — feel free to use, modify and deploy.
+Apache License — feel free to use, modify and deploy.
